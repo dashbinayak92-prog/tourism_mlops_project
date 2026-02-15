@@ -5,6 +5,6 @@ matplotlib
 seaborn
 mlflow
 datasets
-huggingface_hub
+huggingface_hub[cli]
 xgboost
 joblib
